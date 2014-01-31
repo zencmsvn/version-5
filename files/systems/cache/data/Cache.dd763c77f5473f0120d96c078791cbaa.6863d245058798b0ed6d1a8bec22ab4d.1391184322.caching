@@ -1,0 +1,609 @@
+a:9:{i:21;a:25:{s:2:"id";s:2:"21";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:8:"test-des";s:8:"type_url";s:7:"only_me";s:5:"title";s:8:"test des";s:10:"type_title";s:7:"only_me";s:4:"name";s:8:"test des";s:7:"content";s:5:"dsldh";s:7:"keyword";s:0:"";s:3:"des";s:117:"Print view FAQ Search Members Register Login Strip BBCode from post text Forum rules Twitter || Flickr || BandCamp ||";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:6:"bbcode";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"81";s:4:"time";s:10:"1380450757";s:6:"weight";s:1:"1";s:8:"full_url";s:33:"http://localhost/test-des-21.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:5:"dsldh";}i:20;a:25:{s:2:"id";s:2:"20";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:8:"test-bai";s:8:"type_url";s:7:"only_me";s:5:"title";s:9:"test bài";s:10:"type_title";s:7:"only_me";s:4:"name";s:9:"test bài";s:7:"content";s:55:"lalnafnaf âfafk
+àka
+[b]fkakkkkkk[/b] addddddđ
+
+d";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:6:"bbcode";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"28";s:4:"time";s:10:"1380359349";s:6:"weight";s:1:"2";s:8:"full_url";s:33:"http://localhost/test-bai-20.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:50:"lalnafnaf âfafk àka [b]fkakkkkkk[/b] addddddđ d";}i:12;a:25:{s:2:"id";s:2:"12";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:10:"aaaaaaaaaa";s:8:"type_url";s:7:"only_me";s:5:"title";s:10:"aaaaaaaaaa";s:10:"type_title";s:7:"only_me";s:4:"name";s:10:"aaaaaaaaaa";s:7:"content";s:1679:"<p>"Chúng tôi tự hào là nhà tiên phong trong lĩnh vực phát triển open-source tại Việt Nam, chúng tôi mang đến cho bạn 1 bộ code hoàn hảo và miễn phí do chính người Việt phát triển với những tính năng ưu việt giúp bạn dễ dàng hơn trong việc quản lí, thiết kế website của mình. Và đặc biệt ZenCMS còn giúp bạn giảm bớt chi phí cho website, tăng lợi nhuận trong quá trình sử dụng. Hơn nữa bằng việc áp dụng các công nghệ và cơ chế tiên tiến như sử dụng mô hình MVC, khả năng load module, template, áp dụng cơ chế hook và kĩ thuật caching giúp bạn chủ động trong quá trình thiết kế, quản lí trang web"</p>
+<p>Bạn là Webmaster, chắc hẳn các bạn không còn xa lạ gì với ZenCMS. ZenCMS đã đi được một chặng đường khá dài và nhận được rất nhiều phản hồi từ người dùng. Chúng tôi rất cảm ơn các bạn đã ủng hộ ZenCMS trong thời gian qua. Để tiếp tục đưa ZenCMS phát triển, chúng tôi quyết định public phiên bản 400 với tên gọi <strong>ZenCMS 400 MVC VERSION</strong></p>
+<p>Phiên bản này là sự chuyển mình lớn của ZenCMS từ mô hình OOP thông thường sang sử dụng mô hình <strong><a title="Mô hình MVC là gì?" href="http://vi.wikipedia.org/wiki/MVC" target="_blank">MVC</a></strong> làm nền tảng. Nhờ MVC, chúng tôi đã phát triển ZenCMS nên một nấc thang mới: Nấc thang của một Mini-Framework. Tuy nhiên chức năng chính của ZenCMS vẫn là <strong>blog</strong></p>";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:1:"7";s:4:"time";s:10:"1380226919";s:6:"weight";s:1:"4";s:8:"full_url";s:35:"http://localhost/aaaaaaaaaa-12.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:61:""Chúng tôi tự hào là nhà tiên phong trong lĩnh vực";}i:13;a:25:{s:2:"id";s:2:"13";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:7:"test-in";s:8:"type_url";s:7:"only_me";s:5:"title";s:7:"test in";s:10:"type_title";s:7:"only_me";s:4:"name";s:7:"test in";s:7:"content";s:174:"<p><a href="http://zencms.vn/developer-documentation/danh-sach-hook-trong-zencms-11.html">http://zencms.vn/developer-documentation/danh-sach-hook-trong-zencms-11.html</a></p>";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:1:"3";s:4:"time";s:10:"1380349212";s:6:"weight";s:2:"23";s:8:"full_url";s:32:"http://localhost/test-in-13.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:76:"http://zencms.vn/developer-documentation/danh-sach-hook-trong-zencms-11.html";}i:11;a:25:{s:2:"id";s:2:"11";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:51:"developer-documentation/danh-sach-hook-trong-zencms";s:8:"type_url";s:11:"with_parent";s:5:"title";s:38:"Danh sách hook trong ZenCMS, Code wap";s:10:"type_title";s:6:"custom";s:4:"name";s:28:"Danh sách hook trong ZenCMS";s:7:"content";s:9141:"<p>Dưới đây là danh sách hook theo từng module:</p>
+<table class="hook_table" style="height: 249px; width: 600px;" width="478"><caption><strong>account</strong></caption>
+<tbody>
+<tr>
+<td>NAME</td>
+<td>INPUT</td>
+<td>OUTPUT</td>
+<td>PROTECTED</td>
+<td>Description</td>
+</tr>
+<tr>
+<td>num_word_sub_message</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>
+<p>Số lượng từ hiển thị trong phần xem trước tin nhắn</p>
+</td>
+</tr>
+<tr>
+<td>out_sub_message</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Tin nhắn hiển thị trước trong phần xem trước tin nhắn</td>
+</tr>
+<tr>
+<td>num_conversations_display</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số cuộc hội thoại hiển thị trong hộp thư đến</td>
+</tr>
+<tr>
+<td>num_messages_display</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số lượng tin nhắn hiển thị  trong một cuộc hội thoại</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table class="hook_table" style="height: 249px; width: 600px;" width="478"><caption><strong>admin</strong></caption>
+<tbody>
+<tr>
+<td>NAME</td>
+<td>INPUT</td>
+<td>OUTPUT</td>
+<td>PROTECTED</td>
+<td>Description</td>
+</tr>
+<tr>
+<td>length_url_bookmark</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>
+<p>Độ dài url bookmark cho phép</p>
+</td>
+</tr>
+<tr>
+<td>extensions_allow_edit</td>
+<td>array</td>
+<td>array</td>
+<td>false</td>
+<td>Phần mở rộng cho phép chỉnh sửa trong fileManager</td>
+</tr>
+<tr>
+<td>fileManager_extensions_images</td>
+<td>array</td>
+<td>array</td>
+<td>false</td>
+<td>Phần mở rộng được coi là hình ảnh trong fileManager</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table class="hook_table" style="height: 341px; width: 596px;" width="478"><caption><strong>blog</strong></caption>
+<tbody>
+<tr>
+<td>NAME</td>
+<td>INPUT</td>
+<td>OUTPUT</td>
+<td>PROTECTED</td>
+<td>Description</td>
+</tr>
+<tr>
+<td>lists_in_index</td>
+<td>empty array</td>
+<td>array</td>
+<td>true</td>
+<td>
+<p>Danh sách bài viết ở trang chủ</p>
+</td>
+</tr>
+<tr>
+<td>lists_in_folder</td>
+<td>array (blog data)</td>
+<td>array</td>
+<td>true</td>
+<td>Danh sách bài biết cần lấy ra ở một thư mục</td>
+</tr>
+<tr>
+<td>lists_in_post</td>
+<td>array (blog data)</td>
+<td>array</td>
+<td>true</td>
+<td>Danh sách bài biết cần lấy ra ở một bài viết (Ví dụ bài viết cùng chuyên mục, bài viết ngẫu nhiên ..)</td>
+</tr>
+<tr>
+<td>lists_in_other</td>
+<td>empty array</td>
+<td>array</td>
+<td>true</td>
+<td>Danh sách bài biết cần lấy ra nếu không tìm thấy bài viết</td>
+</tr>
+<tr>
+<td>set_page_more_in_folder</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Chèn code vào head ở một thư mục</td>
+</tr>
+<tr>
+<td>set_page_more_in_post</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Chèn code vào head ở một tbài viết</td>
+</tr>
+<tr>
+<td>out_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung bài viết trước đi đưa xuống máy khách</td>
+</tr>
+<tr>
+<td>out_bbcode_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung bài viết BBcode trước đi đưa xuống máy khách</td>
+</tr>
+<tr>
+<td>out_html_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung bài viết HTML trước đi đưa xuống máy khách</td>
+</tr>
+<tr>
+<td>out_tag</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Một tag trước khi được đưa xuống máy khách</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>in_msg_comment_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung comment bài viết trước khi được đưa vào database</td>
+</tr>
+<tr>
+<td>num_comment</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số lượng comment hiển thị trong một bài viết</td>
+</tr>
+<tr>
+<td>out_msg_comment_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung comment trước khi hiển thị xuống máy khách</td>
+</tr>
+<tr>
+<td>num_likes</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số like trước khi hiển thị xuống máy khách</td>
+</tr>
+<tr>
+<td>num_dislikes</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số dislike trước khi hiển thị xuống máy khách</td>
+</tr>
+<tr>
+<td>blog_data</td>
+<td>array</td>
+<td>array</td>
+<td>false</td>
+<td>Dữ liệu bài viết trước khi hiển thi xuống máy khách</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>num_folders_in_cpanel</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số lượng thư mục hiển thị ở cpanel</td>
+</tr>
+<tr>
+<td>in_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung bài viết trước khi được xử lí để đưa vào database</td>
+</tr>
+<tr>
+<td>in_html_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung bài viết HTML trước khi được xử lí để đưa vào database</td>
+</tr>
+<tr>
+<td>in_bbcode_content</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Nội dung bài viết BBcode trước khi được xử lí để đưa vào database</td>
+</tr>
+<tr>
+<td>delimiter_title</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Dấu phân cách tiêu đề bài viết khi viết bài</td>
+</tr>
+<tr>
+<td>delimiter_url</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Dấu phân cách url con bài viết khi viết bài</td>
+</tr>
+<tr>
+<td>resize_width_icon</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Chiều rộng icon sau khi được resize</td>
+</tr>
+<tr>
+<td>resize_height_icon</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Chiều cao icon sau khi được resize</td>
+</tr>
+<tr>
+<td>blog_data_before_to_database</td>
+<td>array</td>
+<td>array</td>
+<td>false</td>
+<td>Dữ liệu bài viết trước khi được đưa vào database</td>
+</tr>
+<tr>
+<td>import_image</td>
+<td>array</td>
+<td>array</td>
+<td>false</td>
+<td>Nhập khẩu ảnh về host. input, output là danh sách ảnh đạng mảng trước và sau khi lấy ảnh về</td>
+</tr>
+<tr>
+<td>watermark_image</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Đóng dấu ảnh, input, output là đường dẫn đến ảnh trước và sau khi đóng dấu</td>
+</tr>
+<tr>
+<td>upload_file</td>
+<td>int (blog id)</td>
+<td>array</td>
+<td>true</td>
+<td>Upload file. (Tham khảo blogHook.php)</td>
+</tr>
+<tr>
+<td>rename_file</td>
+<td>array (file data)</td>
+<td>boolean</td>
+<td>true</td>
+<td>Đổi tên file (Tham khảo blogHook.php)</td>
+</tr>
+<tr>
+<td>delete_file</td>
+<td>array (file data)</td>
+<td>boolean</td>
+<td>true</td>
+<td>Xóa file (Tham khảo blogHook.php)</td>
+</tr>
+<tr>
+<td>upload_image</td>
+<td>int (blog id)</td>
+<td>array</td>
+<td>true</td>
+<td>Upload hình ảnh (Tham khảo blogHook.php)</td>
+</tr>
+<tr>
+<td>delete_image</td>
+<td>array (image data)</td>
+<td>boolean</td>
+<td>true</td>
+<td>Xóa ảnh (Tham khảo blogHook.php)</td>
+</tr>
+<tr>
+<td>delete_all_image</td>
+<td>int (blog id)</td>
+<td>boolean</td>
+<td>true</td>
+<td>Xóa tất cả các ảnh của một bài viết</td>
+</tr>
+<tr>
+<td>delete_all_file</td>
+<td>int (blog id)</td>
+<td>boolean</td>
+<td>true</td>
+<td>Xóa tất cả các file của một bài viết</td>
+</tr>
+<tr>
+<td>delete</td>
+<td>int (blog id)</td>
+<td>boolean</td>
+<td>true</td>
+<td>Xóa tất cả dữ liệu của một bài viết</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>add_tags</td>
+<td>array</td>
+<td>array</td>
+<td>false</td>
+<td>Danh sách tag trước khi được đưa vào database</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>extension_not_allow_upload</td>
+<td>string</td>
+<td>string</td>
+<td>false</td>
+<td>Danh sách phần mở rộng của file không cho phép upload. Ví dụ: php|exe|html</td>
+</tr>
+<tr>
+<td>number_file_per_upload</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số lượng file trên một lần upload</td>
+</tr>
+<tr>
+<td>{type}_editor</td>
+<td>array (data file)</td>
+<td>array (data file)</td>
+<td>false</td>
+<td>Các hook chỉnh sửa file. Ví dụ jar_editor, apk_editor</td>
+</tr>
+<tr>
+<td>number_image_per_upload</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số lượng ảnh trên một lần upload</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>num_post_display_recycle_bin</td>
+<td>int</td>
+<td>int</td>
+<td>false</td>
+<td>Số lượng bài viết hiển thị trong thùng rác</td>
+</tr>
+</tbody>
+</table>
+<p>Đó là danh sách hook dùng để viết module, mod code.</p>
+<p>:nd33:</p>";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:3:"116";s:4:"time";s:10:"1379792709";s:6:"weight";s:2:"25";s:8:"full_url";s:76:"http://localhost/developer-documentation/danh-sach-hook-trong-zencms-11.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:66:"Dưới đây là danh sách hook theo từng module: account NAME";}i:10;a:25:{s:2:"id";s:2:"10";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:42:"developer-documentation/module-cac-quy-uoc";s:8:"type_url";s:16:"with_full_parent";s:5:"title";s:49:"Các quy ước của một module chuẩn ZenCMS";s:10:"type_title";s:6:"custom";s:4:"name";s:24:"Module - Các quy ước";s:7:"content";s:5442:"<p>Để tự thiết kế cho mình những module riêng, bài biết sau sẽ nêu ra một vài quy ước khi viết module</p>
+<h3>Một module bao gồm các thành phần sau</h3>
+<div class="quoteStyle" style="width: 546.296875px;">Controller - Bắt buộc phải có: Đây là thành phần chứa các mã điều khiển module<br /><br />Setttings - Bắt buộc phải có: Thành phần này có tác dụng tạo các cài đặt, cấu hình ban đầu cho module<br /><br />info - Bắt buộc phải có: Chứa thông tin module như tên module, phiên bản, tác giả...<br /><br />Model - Tùy từng module: Model là thành phần để thao tác với database<br /><br />Hook - Tùy chọn: Chứa các hook mặc định của module<br /><br />Các file template (tpl) - Tùy kiểu module mà có thành phần này hay không</div>
+<h3> </h3>
+<h3>Quy tắc đặt tên module:</h3>
+<p>Tên module phải là một chuỗi chứa các kí tự từ <span style="color: #ff0000;"><em>A-Z 0-9 và dấu _</em> </span></p>
+<p>Đối với <strong>background module</strong>, tên nên bắt đầu bằng dấu "_" để phân biệt với <strong>App module</strong>. Ví dụ module có tên <strong>_is_background_module</strong> là tên một background module</p>
+<h3> </h3>
+<h3>Quy tắc và cấu trúc các file</h3>
+<p><strong><span style="color: #ff0000;"> - Cấu trúc file controller:</span><br /></strong></p>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">&lt;?php<br />if (!defined('__ZEN_KEY_ACCESS')) exit('No direct script access allowed');<br /><br />Class module_nameController Extends ZenController<br />{<br />    function index() {<br />     //do something<br />    }<br />}<br />?&gt;</pre>
+<span class="lang"><!--{php}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{&LT;?php
+if (!defined('__ZEN_KEY_ACCESS')) exit('No direct script access allowed');
+
+Class module_nameController Extends ZenController
+{
+    function index() {
+     //do something
+    }
+}
+?&GT;
+}--></span></div>
+<p>Trong đó</p>
+<p><strong>tên lớp = tên module + Controller </strong></p>
+<p>Ví dụ: module <strong>test</strong> thì tên lớp controller sẽ là <strong>testController</strong></p>
+<p> </p>
+<p><span style="color: #ff0000;"><strong>- Cấu trúc file model:</strong></span> </p>
+<p>Tương tự Controller<strong> tên lớp = tên module + Model</strong></p>
+<p> </p>
+<p><span style="color: #ff0000;"><strong>- Cấu trúc file Settings:</strong> </span></p>
+<p>Tương tự Controller <strong>Tên lớp  = tên module + Settings</strong></p>
+<p> </p>
+<p><strong><span style="color: #ff0000;">- Cấu trúc file info:</span><br /></strong></p>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">name = Tên module<br />version = Phiên bản<br />author = Tác giả<br />des = Mô tả ngắn về module</pre>
+<span class="lang"><!--{html}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{name = Tên module
+version = Phiên bản
+author = Tác giả
+des = Mô tả ngắn về module
+}--></span></div>
+<p> </p>
+<p><strong><span style="color: #ff0000;">- Cấu trúc các file template:</span> </strong></p>
+<p>Các file template có thể đặt trong module hoặc đặt trong template. Tuy nhiên file đặt trong module nên là các template gốc.</p>
+<div class="quoteStyle">Tên một file template = tên template + .tpl.php </div>
+<p>Ví dụ ta có file <strong>test.tpl.php</strong> cấu trúc như sau:</p>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">&lt;?php load_header() ?&gt;<br /><br />&lt;!- something --&gt;<br /><br />&lt;?php load_message() ?&gt;<br /><br />&lt;!-- something --&gt;<br /><br />&lt;!-- something --&gt;<br /><br />bla..bla<br /><br />&lt;?php load_footer() ?&gt;</pre>
+<span class="lang"><!--{html}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{&LT;?php load_header() ?&GT;
+
+&LT;!- something --&GT;
+
+&LT;?php load_message() ?&GT;
+
+&LT;!-- something --&GT;
+
+&LT;!-- something --&GT;
+
+bla..bla
+
+&LT;?php load_footer() ?&GT;}--></span></div>
+<p>Trong đó: <strong>load_header()</strong> để lấy nội dung file header của template. <strong>load_footer()</strong> cũng tương tự như vậy</p>
+<p>Còn <strong>load_message()</strong> để hiển thị các thông báo từ Controller đổ xuống</p>
+<p> </p>
+<h3>Ví dụ:</h3>
+<p>Một module có tên là <strong>hello</strong> sẽ có cấu trúc các file như sau</p>
+<div class="quoteStyle">/modules/hello/helloController.php<br />/modules/hello/helloSettings.php<br />/modules/hello/helloModel.php<br />/modules/hello/hello.info<br /><br />/modules/hello/tpl/index.tpl.php ~&gt; đây là file template gốc<br />/templates/template_đang_dùng/tpl/hello/index.tpl.php ~&gt; Template copy từ template gốc</div>
+<p> Đó là cấu trúc đơn giản của một module. Bài sau sẽ nói về Cách viết một module nhé :nd30:</p>";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"38";s:4:"time";s:10:"1379712608";s:6:"weight";s:2:"26";s:8:"full_url";s:67:"http://localhost/developer-documentation/module-cac-quy-uoc-10.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:68:"Để tự thiết kế cho mình những module riêng, bài biết";}i:8;a:25:{s:2:"id";s:1:"8";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:52:"developer-documentation/huong-dan-viet-module-zencms";s:8:"type_url";s:11:"with_parent";s:5:"title";s:35:"Hướng dẫn viết module ZenCMS";s:10:"type_title";s:6:"custom";s:4:"name";s:35:"Hướng dẫn viết module ZenCMS";s:7:"content";s:15892:"<p>Trước khi đọc bài này, các bạn hãy đọc qua về <strong><span style="color: #3366ff;"><a title="Các quy ước của module ZenCMS" href="developer-documentation/module-cac-quy-uoc-10.html" target="_blank">Các quy ước của module</a></span></strong> nhé</p>
+<p>:nd37:</p>
+<p>Bây giờ chúng ta viết một module với tên <strong>example</strong> đơn giản có cấu trúc như sau:</p>
+<div class="quoteStyle"><em>/modules/example</em><em><br />/modules/example/</em><em>exampleController.php</em><br /><em>/modules/example/</em><em>exampleSettings.php<br />/modules/example/example.info</em></div>
+<p> Và file templates </p>
+<div class="quoteStyle">/modules/example/tpl/index.tpl.php<br />/modules/example/tpl/hello.tpl.php</div>
+<p>Mặc định 3 file template này các bạn đặt ở đây. Sau khi hoàn thành module các bạn nên <strong>COPY </strong>sang template đang dùng</p>
+<p> </p>
+<h3>File <em style="color: #339966;">/modules/example/</em><em style="color: #339966;">exampleController.php</em></h3>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">&lt;?php<br />if (!defined('__ZEN_KEY_ACCESS')) exit('No direct script access allowed');<br /><br />Class exampleController Extends ZenController<br />{<br />     function index() {<br />        $data['page_title'] = 'Module example';  <br />        $data['content'] = 'Hello world!';<br />        $this-&gt;view-&gt;data = $data;<br />        $this-&gt;view-&gt;show('example/index');  <br />     }<br />     function hello() {<br />        $data['page_title'] = 'This is a hello page';  <br />        $data['content'] = 'Welcome to my page!';<br />        $this-&gt;view-&gt;data = $data;<br />        $this-&gt;view-&gt;show('example/hello');  <br />     }<br />     function variables($arg = array()) {<br />         var_dump($arg);<br />     }<br />}<br />?&gt;</pre>
+<span class="lang"><!--{php}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{&LT;?php
+if (!defined('__ZEN_KEY_ACCESS')) exit('No direct script access allowed');
+
+Class exampleController Extends ZenController
+{
+     function index() {
+        $data['page_title'] = 'Module example';  
+        $data['content'] = 'Hello world!';
+        $this-&GT;view-&GT;data = $data;
+        $this-&GT;view-&GT;show('example/index');  
+     }
+     function hello() {
+        $data['page_title'] = 'This is a hello page';  
+        $data['content'] = 'Welcome to my page!';
+        $this-&GT;view-&GT;data = $data;
+        $this-&GT;view-&GT;show('example/hello');  
+     }
+     function variables($arg = array()) {
+         var_dump($arg);
+     }
+}
+?&GT;}--></span></div>
+<h3> </h3>
+<h3>File <em style="color: #339966;">/modules/example/</em><em style="color: #339966;">exampleSettings.php</em></h3>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">&lt;?php<br />if (!defined('__ZEN_KEY_ACCESS')) exit('No direct script access allowed');<br /><br />Class exampleSettings Extends ZenSettings<br />{<br /><br />    public function __construct()<br />    {<br /><br />        $this-&gt;Type = APP;<br /><br />        $this-&gt;FilterAccess = array(<br />            'index' =&gt; '',<br />            'hello' =&gt; '',<br />             'variables' =&gt; '');<br /><br />    }<br />}<br />?&gt;<br /> </pre>
+<span class="lang"><!--{php}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{&LT;?php
+if (!defined('__ZEN_KEY_ACCESS')) exit('No direct script access allowed');
+
+Class exampleSettings Extends ZenSettings
+{
+
+    public function __construct()
+    {
+
+        $this-&GT;Type = APP;
+
+        $this-&GT;FilterAccess = array(
+            'index' =&GT; '',
+            'hello' =&GT; '',
+             'variables' =&GT; '');
+
+    }
+}
+?&GT;
+ }--></span></div>
+<h3> </h3>
+<h3>Và file <em style="color: #339966;">/modules/example/</em><em style="color: #339966;">example.info</em></h3>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">name = This is example<br />version = 1.0<br />author = System<br />des = example</pre>
+<span class="lang"><!--{html}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{name = This is example
+version = 1.0
+author = System
+des = example}--></span></div>
+<p> </p>
+<h2>Template:</h2>
+<h3>File <em style="color: #339966;">/modules/example/</em><em style="color: #339966;">tpl/index.tpl.php và </em><span style="font-size: 13px;"> </span><strong><em style="color: #339966;">/modules/example/</em></strong><em style="color: #339966;"><strong>tpl/hello.tpl.php</strong></em><span style="font-size: 13px;"><br /></span></h3>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">&lt;?php load_header() ?&gt;<br /><br />&lt;div class="content"&gt;<br />      &lt;?php echo $content ?&gt;<br />&lt;/div&gt;<br /><br />&lt;?php load_footer() ?&gt;</pre>
+<span class="lang"><!--{php}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{&LT;?php load_header() ?&GT;
+
+&LT;div class="content"&GT;
+      &LT;?php echo $content ?&GT;
+&LT;/div&GT;
+
+&LT;?php load_footer() ?&GT;}--></span></div>
+<h3><em style="color: #339966;"> </em></h3>
+<p><span style="color: #333333;"> </span></p>
+<p>Bây giờ ta cùng tìm hiểu file <strong>Controller</strong>:</p>
+<p>Như bạn thấy ở trên thì file này chưa một lớp là <strong>exampleController</strong>, lớp này kết thừa từ <strong>ZenController</strong>.</p>
+<p>Bên trong <strong>exampleController </strong>có 3 phương thức là <strong>index</strong> và <strong>hello </strong>và <strong>variables</strong></p>
+<p><span style="color: #ff0000;">- <strong>index</strong></span> là phương thức mặc định của một module ví dụ: Khi có một request đến <a href="http://domain/example">http://domain/example</a> thì phương thức sẽ được gọi là index</p>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">$data['page_title'] = 'Module example';  <br />$data['content'] = 'Hello world!';<br />$this-&gt;view-&gt;data = $data;<br />$this-&gt;view-&gt;show('example/index');  </pre>
+<span class="lang"><!--{php}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{$data['page_title'] = 'Module example';  
+$data['content'] = 'Hello world!';
+$this-&GT;view-&GT;data = $data;
+$this-&GT;view-&GT;show('example/index');  }--></span></div>
+<p>Trong phương thức này có các biến và hàm như bên trên,</p>
+<p>Trong đó <em><strong>$data</strong></em>  hay <em><strong>$this-&gt;view-&gt;data</strong></em> để lưu toàn bộ những biến bạn muốn đẩy vào template.</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Để show template <em>index.tpl.php</em> thì ta gọi hàm <em><strong>$this-&gt;view-&gt;show('example/index')</strong></em></p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Trong file template <strong><em>index.tpl.php</em></strong> để lấy được nội dung của biến đã đẩy vào là <strong>$this-&gt;view-&gt;data['key']</strong> các bạn chỉ cần <strong>echo $key;</strong></p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Ở ví dụ trên khi chạy <a href="http://domain/example">http://domain/example</a> thì kết quả trên màn hình như sau</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><img src="files/posts/images/9-2013/documentationhuong-dan-viet-module-zencms.png" alt="Hướng dẫn viết module ZenCMS" width="1365" height="380" /></p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">- <span style="color: #ff0000;"><strong>hello </strong></span>và <strong><span style="color: #ff0000;">variables</span> </strong>là phương thức "cấp 2".</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Tại sao lại gọi nó là cấp 2. Bởi vì chỉ khi có một request đến <a style="color: #2020dd; text-decoration: none;" href="http://domain/example/hello">http://domain/example/hello</a> thì phương thức hello mới được triệu gọi.</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Nội dung, cách hoạt động tương tự nhưng phương thức index.</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Tuy nhiên ở đây mình đưa ra ví dụ phương thức <strong>variables </strong>để giúp các bạn hiểu cách <strong style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;">đẩy biến</strong> vào trong một phương thức</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Cụ thể bạn có một url như sau: <strong><em><span style="font-style: normal;">http://domain/example/</span>variables<span style="font-style: normal;">/check/10</span></em></strong></p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Ở phương thức <strong>variables </strong>bên trên mình đã cố tình <strong>var_dump()</strong> cái biến <strong>$arg</strong> để các bạn thấy rõ nội dung của biến <strong>$arg</strong> khi các bạn truy cập url trên.</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Và đây là kết quả</p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"> <strong style="line-height: normal;">array</strong><em style="line-height: normal;">(size=2)</em></p>
+<pre class="xdebug-var-dump" dir="ltr" style="line-height: normal;">  0 <span style="color: #888a85;">=&gt;</span> <small>string</small> <span style="color: #cc0000;">'check'</span> <em>(length=5)</em>
+  1 <span style="color: #888a85;">=&gt;</span> <small>string</small> <span style="color: #cc0000;">'10'</span> <em>(length=2)</em></pre>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"> Như ta thấy biến <strong>$arg</strong> lúc này là mảng gồm 2 phần tử 'check' và '10'</p>
+<div class="snippet" dir="ltr" style="background-color: #ddd; margin: 5px 0 5px 0;" contenteditable="false">
+<pre class="snippet">$arg[0] = 'check';<br /><br />$arg[1] = 10;</pre>
+<span class="lang"><!--{php}--></span><span class="settings"><!--{{"style":"acid"}}--></span><span class="code"><!--{$arg[0] = 'check';
+
+$arg[1] = 10;}--></span></div>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;"> </p>
+<p style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 20px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Chúc các bạn thành công :nd27:</p>";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"42";s:4:"time";s:10:"1379694999";s:6:"weight";s:2:"27";s:8:"full_url";s:76:"http://localhost/developer-documentation/huong-dan-viet-module-zencms-8.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:62:"Trước khi đọc bài này, các bạn hãy đọc qua về";}i:7;a:25:{s:2:"id";s:1:"7";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:50:"mot-vai-ham-co-ban-trong-zencms-function-reference";s:8:"type_url";s:7:"only_me";s:5:"title";s:70:"Một vài hàm cơ bản trong ZenCMS - Function Reference - Code wap";s:10:"type_title";s:7:"only_me";s:4:"name";s:59:"Một vài hàm cơ bản trong ZenCMS - Function Reference";s:7:"content";s:0:"";s:7:"keyword";s:36:"Function Reference, zencms, code web";s:3:"des";s:59:"Một vài hàm cơ bản trong ZenCMS - Function Reference";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:6:"folder";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"18";s:4:"time";s:10:"1379691908";s:6:"weight";s:2:"29";s:8:"full_url";s:74:"http://localhost/mot-vai-ham-co-ban-trong-zencms-function-reference-7.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:0:"";}i:22;a:25:{s:2:"id";s:2:"22";s:3:"uid";s:1:"1";s:6:"parent";s:1:"1";s:3:"url";s:11:"test-bbcode";s:8:"type_url";s:7:"only_me";s:5:"title";s:11:"Test bbcode";s:10:"type_title";s:7:"only_me";s:4:"name";s:11:"Test bbcode";s:7:"content";s:96:"akdgad
+ad&#039;adka
+dla
+dla
+dla
+dla
+adlad;ad
+ad a
+dk ada da ldjalddddddddddddd
+jdada da";s:7:"keyword";s:0:"";s:3:"des";s:87:"akdgad ad&#039;adka dla dla dla dla adlad;ad ad a dk ada da ldjalddddddddddddd jdada da";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:6:"bbcode";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"44";s:4:"time";s:10:"1380592453";s:6:"weight";s:2:"37";s:8:"full_url";s:36:"http://localhost/test-bbcode-22.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:56:"akdgad ad&#039;adka dla dla dla dla adlad;ad ad a dk ada";}}

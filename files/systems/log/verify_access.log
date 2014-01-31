@@ -1,0 +1,3 @@
+[14-10-2013 00:17] [192.168.1.87] [admin: Trying to login: http://192.168.1.87/blog/manager/editpost/27/step3 with password: ] [Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36]
+[14-10-2013 00:18] [192.168.1.87] [1] [Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36]
+[16-10-2013 12:38] [127.0.0.1] [admin: Trying to login: http://localhost/admin with password: zencs] [Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36]

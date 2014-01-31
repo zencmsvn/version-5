@@ -1,0 +1,25 @@
+File changed
+**/systems/includes/ZenConfig.php
+**/systems/includes/ZenFunctions.php
+**/systems/includes/ZenCommon.php
+
+*/systems/init/ZenRouter.class.php
+*/systems/init/ZenHook.class.php
+
+**/systems\includes\config\ZenINFO.php
+**/systems\includes\config\ZenMIMETYPES.php
+
+**/modules/blog
+
+
+
+Thêm thư viện
+**/systems/includes/PHP
+Thêm file
+**/systems\includes\config\ZenVERSION.php
+
+thêm hook blog
+
+num_display_sub_cat_in_index controller 129
+order_display_sub_cat_in_index controller 137
+filter_display_sub_cat_in_index controller 144

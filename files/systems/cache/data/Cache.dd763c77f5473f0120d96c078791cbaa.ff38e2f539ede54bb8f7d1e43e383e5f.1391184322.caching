@@ -1,0 +1,94 @@
+a:10:{i:27;a:25:{s:2:"id";s:2:"27";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:7:"dkm-vkl";s:8:"type_url";s:7:"only_me";s:5:"title";s:7:"dkm vkl";s:10:"type_title";s:7:"only_me";s:4:"name";s:7:"dkm vkl";s:7:"content";s:40:"<p>lmam'almd</p>
+<p>ald</p>
+<p>adl</p>";s:7:"keyword";s:0:"";s:3:"des";s:18:"fnlf s fhsf sshf s";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"25";s:4:"time";s:10:"1381682957";s:6:"weight";s:1:"0";s:8:"full_url";s:32:"http://localhost/dkm-vkl-27.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:17:"lmam'almd ald adl";}i:24;a:25:{s:2:"id";s:2:"24";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:4:"bbbb";s:8:"type_url";s:7:"only_me";s:5:"title";s:4:"bbbb";s:10:"type_title";s:7:"only_me";s:4:"name";s:4:"bbbb";s:7:"content";s:0:"";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:6:"folder";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:1:"1";s:4:"time";s:10:"1380730468";s:6:"weight";s:1:"5";s:8:"full_url";s:29:"http://localhost/bbbb-24.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:0:"";}i:23;a:25:{s:2:"id";s:2:"23";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:4:"aaaa";s:8:"type_url";s:7:"only_me";s:5:"title";s:4:"aaaa";s:10:"type_title";s:7:"only_me";s:4:"name";s:4:"aaaa";s:7:"content";s:0:"";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:6:"folder";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:1:"0";s:4:"time";s:10:"1380730461";s:6:"weight";s:1:"6";s:8:"full_url";s:29:"http://localhost/aaaa-23.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:0:"";}i:25;a:25:{s:2:"id";s:2:"25";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:4:"cccc";s:8:"type_url";s:7:"only_me";s:5:"title";s:4:"cccc";s:10:"type_title";s:7:"only_me";s:4:"name";s:4:"cccc";s:7:"content";s:0:"";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:6:"folder";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:1:"0";s:4:"time";s:10:"1380730474";s:6:"weight";s:1:"7";s:8:"full_url";s:29:"http://localhost/cccc-25.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:0:"";}i:26;a:25:{s:2:"id";s:2:"26";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:4:"dddd";s:8:"type_url";s:7:"only_me";s:5:"title";s:4:"dddd";s:10:"type_title";s:7:"only_me";s:4:"name";s:4:"dddd";s:7:"content";s:0:"";s:7:"keyword";s:0:"";s:3:"des";s:0:"";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:6:"folder";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:1:"0";s:4:"time";s:10:"1380730483";s:6:"weight";s:1:"8";s:8:"full_url";s:29:"http://localhost/dddd-26.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:0:"";}i:19;a:25:{s:2:"id";s:2:"19";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:47:"huong-dan-su-dung/cho-anh-nhin-ve-em-2-vi-thanh";s:8:"type_url";s:11:"with_parent";s:5:"title";s:105:"Hướng dẫn sử dụng ZenCMS, code wap, code web, web design - Cho anh nhìn về em 2 – Vĩ Thanh";s:10:"type_title";s:11:"with_parent";s:4:"name";s:37:"Cho anh nhìn về em 2 – Vĩ Thanh";s:7:"content";s:0:"";s:7:"keyword";s:0:"";s:3:"des";s:9:"hwjjsksks";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"54";s:4:"time";s:10:"1380352378";s:6:"weight";s:2:"17";s:8:"full_url";s:72:"http://localhost/huong-dan-su-dung/cho-anh-nhin-ve-em-2-vi-thanh-19.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:0:"";}i:6;a:25:{s:2:"id";s:1:"6";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:44:"huong-dan-quan-li-bai-viet-trong-module-blog";s:8:"type_url";s:7:"only_me";s:5:"title";s:115:"Hướng dẫn quản lí bài viết trong module blog code ZenCMS, code web, code wap tốt nhất, code làm wap";s:10:"type_title";s:6:"custom";s:4:"name";s:55:"Hướng dẫn quản lí bài viết trong module blog";s:7:"content";s:1757:"<p>Blog là module chính của <strong>ZenCMS</strong>. Đây là module để bạn tạo cho mình một trang blog cá nhân.</p>
+<p>Vậy làm sao để quản lí bài viết trong module này?</p>
+<h2><strong>Cách thứ nhất:</strong></h2>
+<p>Đầu tiên các bạn vào</p>
+<div class="quoteStyle">Admin CP (http://domain/admin) -&gt; Module cpanel -&gt; Blog hoặc Trang bài viết </div>
+<p> Giao diện nhìn thấy như sau:</p>
+<p> <img style="display: block; margin-left: auto; margin-right: auto;" src="files/posts/images/9-2013/huong-dan-quan-li-bai-viet-trong-module-blog.png" alt="Hướng dẫn viết bài trong code ZenCMS chuẩn seo" width="240" /></p>
+<p> Bao gồm</p>
+<ol>
+<li>Quản lí nội dung: Phần quản lí chính</li>
+<li>Viết bài mới</li>
+<li>Sửa bài viết</li>
+<li>Quản lí link</li>
+<li>Quản lí file</li>
+<li>Quản lí ảnh</li>
+<li>Xóa bài viết</li>
+<li>Thùng rác</li>
+</ol>
+<p>Các bạn click vào phần quản lí nội dung. Ở đây, các bạn có thế thêm mục, xóa mục, chuyển mục, viết bài. Còn lại tự tìm hiểu nhá :nd30:</p>
+<h2>Cách thứ hai:</h2>
+<p>Khi bạn đã có các mục cần thiết để viết bài, thay vì phải vào trực tiếp <strong>Blog CP</strong> để viết bài, các bạn có thể truy cập trực tiếp vài mục cần viết bài và click vào nút <strong>Viết bài</strong></p>
+<p><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="files/posts/images/9-2013/huong-dan-quan-li-bai-viet-trong-module-blog1.png" alt="Hướng dẫn viết bài trong ZenCMS, code wap" width="240" /></strong></p>
+<p> </p>
+<p>Chúc các bạn thành công :nd14:</p>";s:7:"keyword";s:52:"viet bai zencms, code zencms, code seo tot, code wap";s:3:"des";s:201:"Blog là module chính của ZenCMS. Đây là module để bạn tạo cho mình một trang blog cá nhân. Vậy làm sao để quản lí bài viết trong module này? Đầu tiên các bạn vào";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"19";s:4:"time";s:10:"1379673806";s:6:"weight";s:2:"28";s:8:"full_url";s:68:"http://localhost/huong-dan-quan-li-bai-viet-trong-module-blog-6.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:65:"Blog là module chính của ZenCMS. Đây là module để bạn";}i:5;a:25:{s:2:"id";s:1:"5";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:35:"cau-hinh-cho-zencms-sau-khi-cai-dat";s:8:"type_url";s:7:"only_me";s:5:"title";s:42:"Cấu hình cho ZenCMS sau khi cài đặt";s:10:"type_title";s:7:"only_me";s:4:"name";s:42:"Cấu hình cho ZenCMS sau khi cài đặt";s:7:"content";s:2129:"<p>Sau khi cài đặt thành công, điều quan trọng là bạn phải cấu hình cho <strong>ZenCMS</strong> cho phù hợp với nhu cầu của bạn.</p>
+<p>Trước tiên hãy đăng nhập tài khoản quản trị của bạn <a href="http://domain/login ">http://domain/login </a></p>
+<p>Sau đó, để vào được <strong>Admin cpanel</strong> bạn có thể truy cập trực tiếp <strong>http://domain/admin</strong></p>
+<p>Hoặc click vào <strong>Admin CP</strong> ở phía cuối trang.</p>
+<p>Để cấu hình ZenCMS, rất đơn giản bạn chỉ cần click vào <strong>Cấu hình chính</strong></p>
+<p>Trên giao diện cấu hình bao gồm:</p>
+<p><strong>Cấu hình chính</strong></p>
+<div class="quoteStyle">Địa chỉ trang chủ:  Đã cài đặt trước<br /> <br /> Tiêu đề trang: Tiêu đề chính của trang<br /> <br /> Keyword: Từ khóa chính của trang<br /> <br /> Mô tả website: Một vài dòng mô tả ngắn về trang </div>
+<p><strong> Cấu hình mail</strong></p>
+<p>Cấu hình này rất quan trọng. Thay vì sử dụng mail mặc định của server, hệ thống cho phép bạn sử dụng mail của bên thư 3 ví dụ như gmail, ymail ..</p>
+<div class="quoteStyle">Host STMP: Nếu bạn sử dụng gmai thì host là smtp.gmail.com còn nếu bạn sử dụng yahoo mail thì sẽ là smtp.mail.yahoo.com<br /> <br /> Cổng gửi mail: Với mỗi nhà cung cấp mail sẽ có cổng khác nhau. Các bạn có thể lên google tìm kiếm với các keyword "port smtp gmail" hoặc "port smtp yahoo"<br /> <br /> Mã hóa: TLS hoặc SSL (Tùy chọn)<br /> <br /> Xác thực SMTP (Tùy chọn)<br /> <br /> Tên đăng nhập tài khoản mail: Tên đăng nhập của các nhà cung cấp mail cung cấp cho bạn<br /> <br /> Mật khẩu: Mật khẩu mail của bạn<br /> <br /> Email người gửi: Nên trùng với mail đăng nhập<br /> <br /> Tên người gửi: Tên bạn hoặc website bạn</div>
+<p> Đó là toàn bộ cấu hình cần thiết cho sử dụng sau này của bạn. </p>";s:7:"keyword";s:63:"cấu hình cho zencms, code zencms, code wap, code wap seo tot";s:3:"des";s:233:"Sau khi cài đặt thành công, điều quan trọng là bạn phải cấu hình cho ZenCMS cho phù hợp với nhu cầu của bạn.
+
+Trước tiên hãy đăng nhập tài khoản quản trị của bạn http://domain/login";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"40";s:4:"time";s:10:"1379661033";s:6:"weight";s:2:"31";s:8:"full_url";s:59:"http://localhost/cau-hinh-cho-zencms-sau-khi-cai-dat-5.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:64:"Sau khi cài đặt thành công, điều quan trọng là bạn";}i:4;a:25:{s:2:"id";s:1:"4";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:44:"tong-quan-va-mot-vai-dinh-nghia-trong-zencms";s:8:"type_url";s:7:"only_me";s:5:"title";s:70:"Tổng quan và một vài định nghĩa trong ZenCMS, code web tốt";s:10:"type_title";s:6:"custom";s:4:"name";s:54:"Tổng quan và một vài định nghĩa trong ZenCMS";s:7:"content";s:2928:"<p>Trước khi bắt đầu sử dụng, các bạn nên đọc qua bài này để có một cái nhìn tổng quát nhất về hệ thống của ZenCMS. </p>
+<p>Một vài định nghĩa trong ZenCMS:</p>
+<p> </p>
+<h2> - <strong>Module</strong></h2>
+<p>ZenCMS là một hệ thống bao gồm nhiều module kết hợp. Mỗi module là một ứng dụng với từng chức năng khác nhau.</p>
+<p>Module lại được chia là 2 loại là <strong>Background module</strong> và <strong>App module</strong></p>
+<p><strong>- Background module</strong>: Những module chạy nền, được chạy khi hệ thống khởi động. Loại module này thường được kết hợp với Hook để chỉnh sửa core</p>
+<p>- <strong>App module</strong>: Đây là những module chỉ khi nào có một request trực tiếp đến module thì module mới được khởi động</p>
+<p>Để truy cập vào module (App) bạn chỉ cần chạy đường dẫn <strong><a href="http://domain/module_name">http://domain/module_name</a></strong></p>
+<p>Trong đó <strong>module_name</strong> là tên module bạn cần truy cập.</p>
+<p>Module chính của ZenCMS (Từ phiên bản 400 trở đi) là blog.  Đây cũng là module mặc định của ZenCMS. Module này có tác dụng tạo ra môi trường cho các bạn tạo ra các trang blog. Module đã tích hợp sẵn: Viết bài, chỉnh sửa bài viết, quản lí file, quản lí link, quản lí hình ảnh và thùng rác. </p>
+<p> </p>
+<h2>- <strong>Template</strong></h2>
+<p>Template là thành phần không thể thiếu của một open-source. Template chính là yếu tố để hiển thị nội dung của trang bạn truy cập. Template của ZenCMS chỉ đơn thuần sử dụng html là php giúp bạn dễ dàng chỉnh sửa. Nếu bạn muốn sử giao diện hay cấu trúc site thì chỉ cần sửa template trong thư mục <strong>/templates</strong></p>
+<p> </p>
+<h2><strong>- Widget</strong></h2>
+<p>Widget là thành phần đi kèm theo template. Số lượng vị trí <strong>widget group</strong> được đăng kí ở mỗi template là khác nhau. Template nào càng có nhiều widget group thì template đó càng linh động, </p>
+<p>Một widget cấu trúc gồm tiêu đề, nội dung. Nội dung sử dụng html, css, js ... khi một widget được kích hoạt với nội dung đầy đủ thì widget sẽ được hiển thị tại vị trí đã đăng kí trước</p>
+<p>Đó là ba định nghĩa cơ bản nhất của <strong>ZenCMS</strong>. Nếu bạn là một developer thì nên tiếp tục tìm hiểu ở phần sau </p>
+<p> </p>
+<h2>- Hook</h2>
+<p>Hook là thành phần quan trọng trong việc chỉnh sửa core. Hook sẽ phụ thuộc vào module, mỗi module sẽ có số lượng hook và tên gọi khác nhau</p>";s:7:"keyword";s:46:"how to zencms, code zencms, code wap, code web";s:3:"des";s:277:"Trước khi bắt đầu sử dụng ZenCMS, các bạn nên đọc qua bài này để có một cái nhìn tổng quát nhất về hệ thống của ZenCMS. ZenCMS là một hệ thống bao gồm nhiều module kết hợp. Mỗi module là một ứng dụng khác nhau.";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:2:"39";s:4:"time";s:10:"1379659838";s:6:"weight";s:2:"32";s:8:"full_url";s:68:"http://localhost/tong-quan-va-mot-vai-dinh-nghia-trong-zencms-4.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:65:"Trước khi bắt đầu sử dụng, các bạn nên đọc qua";}i:3;a:25:{s:2:"id";s:1:"3";s:3:"uid";s:1:"1";s:6:"parent";s:1:"2";s:3:"url";s:24:"huong-dan-cai-dat-zencms";s:8:"type_url";s:7:"only_me";s:5:"title";s:65:"Hướng dẫn cài đặt ZenCMS, code wap, code web, web design";s:10:"type_title";s:6:"custom";s:4:"name";s:33:"Hướng dẫn cài đặt ZenCMS";s:7:"content";s:3728:"<p>Rất đơn giản để có một website với đầy đủ tiện ích. Sau đây ZenCMS xin hướng dẫn các bạn cách cài đặt code chi tiết.</p>
+<p><span class="quoteStyle">B1: Chuẩn bị một web hosting</span></p>
+<p><span class="quoteStyle">B2: Tạo database. ở bước này với những bạn mới bắt đầu thì nên lên mạng tìm hiểu cách tạo database nhé</span></p>
+<p><span class="quoteStyle">B3: Download bộ cài code tại trang chủ ZenCMS </span></p>
+<p><span class="quoteStyle">B4: Upload code lên host vào thư mục bạn muốn cài.</span></p>
+<p><span class="quoteStyle">B5: Sau khi quá trình upload thành công, bạn hãy giải nén bộ code vào thư mục cài.</span></p>
+<p><span class="quoteStyle">B6: Mở trình duyệt web lên chạy đường dẫn http://domain/install và quá trình cài tự động bắt đầu</span></p>
+<p><span class="quoteStyle">B7: Các bạn chú ý đọc hết "Điều khoản sử dụng" trước khi cài đặt code nhé.</span>  </p>
+<p>Nếu đồng ý với tất cả các điều khoản thì tick vào<span style="color: #220f03; font-family: monospace;"> </span><strong>Tôi đồng ý với điều khoản của ZenCMS</strong> và ấn "<strong>Tiếp tục</strong>"</p>
+<p>Tiếp theo bạn sẽ phải điền thông tin database theo form nhé.</p>
+<p> </p>
+<p style="text-align: center;"><img src="files/posts/images/9-2013/huong-dan-cai-dat-zencms.png" alt="Hướng dẫn cài đặt code ZenCMS" width="240" height="190" /></p>
+<p style="text-align: center;"> </p>
+<p>Ở bước này các bạn chú ý. <strong>DB host, DB username, DB password, DB name</strong> là những thông tin khi bạn tạo database ở bước 2 nhé.</p>
+<p>Tiếp theo khi các bạn đã cài đặt database thành công, hệ thông sẽ hỏi bạn có muốn nhập khẩu file <strong>ZenCMS.sql</strong> vào database không. Các bạn nhấn đồng ý và tiếp tục nhé. Nếu bước này không gặp lỗi gì thì coi như đã xong.</p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="files/posts/images/9-2013/huong-dan-cai-dat-zencms1.png" alt="Hướng dẫn cài ZenCMS" width="240" height="123" /></p>
+<p> </p>
+<p>Bây giờ, sau khi đã nhập khẩu file ZenCMS.sql thành công, hệ thống sẽ yêu cầu bạn điền thông tin bao gồm:</p>
+<p><span class="quoteStyle">Địa chỉ trang chủ: địa chỉ website hiện tại của bạn đang cài đặt ZenCMS </span></p>
+<p><span class="quoteStyle">Tài khoản admin (Tài khoản quản trị của bạn) </span></p>
+<p><span class="quoteStyle">Tên tài khoản: Bao gồm các kí tự a-z 0-9 - _ nhé </span></p>
+<p><span class="quoteStyle">Mật khẩu:  ^_^ Chắc cài này khỏi nhắc </span></p>
+<p><span class="quoteStyle">Xác nhận mật khẩu </span></p>
+<p><span class="quoteStyle">Và mật khẩu cấp 2: Mật khẩu này dùng để truy cập vào các mục hệ thống như Quản lí file, Cài đặt module, Cài đặt template</span>  </p>
+<p>Nhấn tiếp tục</p>
+<p> </p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="files/posts/images/9-2013/huong-dan-cai-dat-zencms2.png" alt="Hướng dẫn cài đặt ZenCMS" width="240" /></p>
+<p> </p>
+<p>Và cuối cùng là cài đặt thành công! :nd03:</p>
+<p> </p>
+<p style="text-align: center;"><img src="files/posts/images/9-2013/huong-dan-cai-dat-zencms3.png" alt="Hướng dẫn cài đặt ZenCMS" width="240" /></p>
+<p style="text-align: center;"> </p>
+<p>Nhấn tiếp tục và khám phá nhé :nd38:</p>";s:7:"keyword";s:67:"cai dat zencms, huong dan zencms, code zencms, code wap, web design";s:3:"des";s:193:"Rất đơn giản để code một website với đầy đủ tiện ích. Sau đây ZenCMS xin hướng dẫn các bạn cách cài đặt code chi tiết.
+B1: Chuẩn bị một web hosting";s:4:"icon";s:0:"";s:3:"rel";s:0:"";s:4:"type";s:4:"post";s:9:"type_data";s:4:"html";s:9:"type_view";s:0:"";s:4:"font";s:0:"";s:5:"color";s:0:"";s:11:"recycle_bin";s:1:"0";s:4:"view";s:3:"273";s:4:"time";s:10:"1379628984";s:6:"weight";s:2:"33";s:8:"full_url";s:48:"http://localhost/huong-dan-cai-dat-zencms-3.html";s:9:"full_icon";s:53:"http://localhost/templates/android/images/default.png";s:11:"sub_content";s:68:"Rất đơn giản để có một website với đầy đủ tiện";}}
