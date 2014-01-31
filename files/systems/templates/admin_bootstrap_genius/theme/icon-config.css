@@ -1,6 +1,0 @@
-.aaa {
-    padding: 20px;
-}
-.icon-dashboard {
-    &:extend(.aaa);
-}
